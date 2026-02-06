@@ -1,6 +1,6 @@
 {
   "name": "memory-restore",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "從 GitHub backup repo 恢復 AI 記憶與設定。用於新安裝、遷移、或災難恢復時，恢復 workspace 檔案、credentials、skills 等。",
   "author": "Zhuangzi001",
   "license": "MIT",
@@ -17,6 +17,7 @@
     "SKILL.md",
     "README.md",
     "package.json",
+    "CHANGELOG.md",
     "scripts/memory-restore.sh",
     "scripts/setup-deploy-key.sh"
   ],
@@ -26,9 +27,9 @@
     "curl"
   ],
   "triggers": [
-    "恢復記憶",
+    "恂復definse memory",
     "restore memory",
     "從 backup 恢復",
-    "載入舊設定"
+    "漉量墖拪"
   ]
 }
