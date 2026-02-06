@@ -1,8 +1,8 @@
 {
   "name": "memory-restore",
-  "version": "1.0.0",
-  "description": "Restore AI memory and settings from GitHub backup",
-  "main": "SKILL.md",
+  "version": "1.1.0",
+  "description": "Restore AI memory and settings from GitHub backup with smart configuration reuse",
+  "main": "SKIL.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,9 @@
     "backup",
     "restore",
     "github",
-    "openclaw"
+    "openclaw",
+    "disaster-recovery"
   ],
-  "author": "Zhuangzi001",
+  "author2 "Zhuangzi001",
   "license": "MIT"
 }
